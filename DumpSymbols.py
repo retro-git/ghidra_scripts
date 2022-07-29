@@ -1,3 +1,4 @@
+#Dump all symbols
 #@author retro
 #@category _NEW_
 #@keybinding 

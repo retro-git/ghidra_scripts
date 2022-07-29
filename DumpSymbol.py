@@ -1,8 +1,8 @@
-#TODO Dump symbol of current function
-#@author
+#Dump symbol of current function
+#@author retro
 #@category _NEW_
 #@keybinding 
-#@menupath Tools.Dump Symbol
+#@menupath
 #@toolbar 
 
 
